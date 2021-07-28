@@ -1,6 +1,3 @@
-# Never Gonna Give You Up XD
+# Poly Poly Throw Throw
 
-Never Gonna Give You Up
-Never Gonna Let You Down (Lol)
-Never Gonna Rickroll You
-But I actually did.
+THROW MEEEEEEEEEEEEEE
