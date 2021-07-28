@@ -12,11 +12,7 @@ var slingShot;
 var polygon_img;
 
 var gameState = "drag";
-var poly, song;
-
-function preload(){
-  song = loadSound("yt1s.com - Rick Astley  Never Gonna Give You Up Official Music Video.mp3");
-}
+var poly;
 
 function setup() {
   createCanvas(1000,400);
@@ -59,10 +55,9 @@ function setup() {
   poly = new Poly(50, 200, 40);
 
   slingShot = new flingMe(poly.body, {x : 150, y : 150});
-
-  song.loop();
   
 }
+
 function draw() {
   background(56,44,44); 
  
